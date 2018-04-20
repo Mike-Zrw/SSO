@@ -1,0 +1,54 @@
+2018-04-16 15:37:28.2056 | Hosting starting 
+2018-04-16 15:37:28.3156 | Hosting started 
+2018-04-16 15:37:28.3440 | Loaded hosting startup assembly AbsUserCenter.UI 
+2018-04-16 15:37:28.3440 | Loaded hosting startup assembly Microsoft.AspNetCore.Server.IISIntegration 
+2018-04-16 15:37:28.3440 | Connection id "0HLD3DJJSJMU5" started. 
+2018-04-16 15:37:28.3440 | Connection id "0HLD3DJJSJMU6" started. 
+2018-04-16 15:37:28.3440 | Loaded hosting startup assembly Microsoft.AspNetCore.ApplicationInsights.HostingStartup 
+2018-04-16 15:37:28.4431 | The request path / does not match a supported file type 
+2018-04-16 15:37:28.4431 | The request path / does not match a supported file type 
+2018-04-16 15:37:28.4850 | AuthenticationScheme: Cookies was not authenticated. 
+2018-04-16 15:37:28.4850 | AuthenticationScheme: Cookies was not authenticated. 
+2018-04-16 15:37:28.5459 | Request successfully matched the route with name 'default' and template '{controller}/{action}/{id?}'. 
+2018-04-16 15:37:28.5459 | Request successfully matched the route with name 'default' and template '{controller}/{action}/{id?}'. 
+2018-04-16 15:37:28.5875 | Executing action AbsUserCenter.UI.Controllers.HomeController.Index (AbsUserCenter.UI) 
+2018-04-16 15:37:28.5875 | Executing action AbsUserCenter.UI.Controllers.HomeController.Index (AbsUserCenter.UI) 
+2018-04-16 15:37:28.6252 | Executed action method AbsUserCenter.UI.Controllers.HomeController.Index (AbsUserCenter.UI), returned result Microsoft.AspNetCore.Mvc.ViewResult. 
+2018-04-16 15:37:28.6252 | Executed action method AbsUserCenter.UI.Controllers.HomeController.Index (AbsUserCenter.UI), returned result Microsoft.AspNetCore.Mvc.ViewResult. 
+2018-04-16 15:37:28.6395 | View lookup cache miss for view 'Index' in controller 'Home'. 
+2018-04-16 15:37:28.6395 | View lookup cache miss for view 'Index' in controller 'Home'. 
+2018-04-16 15:37:29.5831 | Compilation of the generated code for the Razor file at 'E:\MyObject\AbsUserCenter\AbsUserCenter.UI\Views\Home\Index.cshtml' started. 
+2018-04-16 15:37:31.0271 | Compilation of the generated code for the Razor file at 'E:\MyObject\AbsUserCenter\AbsUserCenter.UI\Views\Home\Index.cshtml' completed in 1438.9379ms. 
+2018-04-16 15:37:31.0934 | Compilation of the generated code for the Razor file at 'E:\MyObject\AbsUserCenter\AbsUserCenter.UI\Views\_ViewStart.cshtml' started. 
+2018-04-16 15:37:31.1382 | Compilation of the generated code for the Razor file at 'E:\MyObject\AbsUserCenter\AbsUserCenter.UI\Views\_ViewStart.cshtml' completed in 43.4049ms. 
+2018-04-16 15:37:31.1457 | The view 'Index' was found. 
+2018-04-16 15:37:31.1457 | The view 'Index' was found. 
+2018-04-16 15:37:31.2287 | View lookup cache miss for view '_Layout' in controller 'Home'. 
+2018-04-16 15:37:31.2287 | View lookup cache miss for view '_Layout' in controller 'Home'. 
+2018-04-16 15:37:31.3923 | Compilation of the generated code for the Razor file at 'E:\MyObject\AbsUserCenter\AbsUserCenter.UI\Views\Shared\_Layout.cshtml' started. 
+2018-04-16 15:37:31.5267 | Compilation of the generated code for the Razor file at 'E:\MyObject\AbsUserCenter\AbsUserCenter.UI\Views\Shared\_Layout.cshtml' completed in 132.7447ms. 
+2018-04-16 15:37:31.5375 | Tag helper component 'Microsoft.AspNetCore.ApplicationInsights.HostingStartup.JavaScriptSnippetTagHelperComponent' initialized. 
+2018-04-16 15:37:31.5375 | Tag helper component 'Microsoft.AspNetCore.ApplicationInsights.HostingStartup.JavaScriptSnippetTagHelperComponent' initialized. 
+2018-04-16 15:37:31.5536 | Tag helper component 'Microsoft.AspNetCore.ApplicationInsights.HostingStartup.JavaScriptSnippetTagHelperComponent' processed. 
+2018-04-16 15:37:31.5536 | Tag helper component 'Microsoft.AspNetCore.ApplicationInsights.HostingStartup.JavaScriptSnippetTagHelperComponent' processed. 
+2018-04-16 15:37:31.5665 | Tag helper component 'Microsoft.AspNetCore.ApplicationInsights.HostingStartup.JavaScriptSnippetTagHelperComponent' initialized. 
+2018-04-16 15:37:31.5665 | Tag helper component 'Microsoft.AspNetCore.ApplicationInsights.HostingStartup.JavaScriptSnippetTagHelperComponent' initialized. 
+2018-04-16 15:37:31.5665 | Tag helper component 'Microsoft.AspNetCore.ApplicationInsights.HostingStartup.JavaScriptSnippetTagHelperComponent' processed. 
+2018-04-16 15:37:31.5665 | Tag helper component 'Microsoft.AspNetCore.ApplicationInsights.HostingStartup.JavaScriptSnippetTagHelperComponent' processed. 
+2018-04-16 15:37:31.6281 | Connection id "0HLD3DJJSJMU6" completed keep alive response. 
+2018-04-16 15:37:31.6281 | Connection id "0HLD3DJJSJMU5" completed keep alive response. 
+2018-04-16 18:28:14.1577 | Hosting starting 
+2018-04-16 18:28:14.3934 | Hosting started 
+2018-04-16 18:28:14.3934 | Loaded hosting startup assembly AbsUserCenter.UI 
+2018-04-16 18:28:14.4051 | Loaded hosting startup assembly Microsoft.AspNetCore.Server.IISIntegration 
+2018-04-16 18:28:14.4051 | Loaded hosting startup assembly Microsoft.AspNetCore.ApplicationInsights.HostingStartup 
+2018-04-16 18:28:14.6296 | Connection id "0HLD3GJ1GOKU4" started. 
+2018-04-16 18:28:14.6296 | Connection id "0HLD3GJ1GOKU5" started. 
+2018-04-16 18:28:14.6668 | Connection id "0HLD3GJ1GOKU5" reset. 
+2018-04-16 18:28:14.6837 | Connection id "0HLD3GJ1GOKU5" disconnecting. 
+2018-04-16 18:28:14.7896 | Connection id "0HLD3GJ1GOKU5" sending FIN. 
+2018-04-16 18:28:14.7896 | Connection id "0HLD3GJ1GOKU5" stopped. 
+2018-04-16 18:28:14.9830 | The request path / does not match a supported file type 
+2018-04-16 18:28:15.0672 | AuthenticationScheme: Cookies was not authenticated. 
+2018-04-16 18:28:15.2522 | Request successfully matched the route with name 'default' and template '{controller}/{action}/{id?}'. 
+2018-04-16 18:28:15.7202 | Executing action AbsUserCenter.UI.Controllers.HomeController.Index (AbsUserCenter.UI) 

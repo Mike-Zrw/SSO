@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  absusercenter.ui:
+    image: absusercenter.ui
+    build:
+      context: .
+      dockerfile: AbsUserCenter.UI\Dockerfile

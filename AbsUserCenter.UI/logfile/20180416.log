@@ -1,0 +1,27 @@
+﻿2018-04-16 11:04:17,443 [15] INFO  AbsUserCenter.UI.Controllers.HomeController [(null)] - log4netinfo
+2018-04-16 11:04:17,552 [15] ERROR AbsUserCenter.UI.Controllers.HomeController [(null)] - log4neterror
+System.ArgumentNullException: Value cannot be null.
+2018-04-16 11:10:25,763 [12] INFO  AbsUserCenter.UI.Controllers.HomeController [(null)] - log4netinfo
+2018-04-16 11:10:25,814 [12] ERROR AbsUserCenter.UI.Controllers.HomeController [(null)] - log4neterror
+System.ArgumentNullException: Value cannot be null.
+2018-04-16 11:20:16,558 [11] INFO  AbsUserCenter.UI.Controllers.HomeController [(null)] - log4netinfo
+2018-04-16 11:20:16,610 [11] ERROR AbsUserCenter.UI.Controllers.HomeController [(null)] - log4neterror
+System.ArgumentNullException: Value cannot be null.
+2018-04-16 11:22:34,189 [11] INFO  AbsUserCenter.UI.Controllers.HomeController [(null)] - log4netinfo
+2018-04-16 11:22:34,189 [11] ERROR AbsUserCenter.UI.Controllers.HomeController [(null)] - log4neterror
+System.ArgumentNullException: Value cannot be null.
+2018-04-16 11:38:40,545 [11] INFO  AbsUserCenter.UI.Controllers.HomeController [(null)] - log4netinfo
+2018-04-16 11:38:40,545 [11] ERROR AbsUserCenter.UI.Controllers.HomeController [(null)] - log4neterror
+System.ArgumentNullException: Value cannot be null.
+2018-04-16 11:40:02,505 [32] INFO  AbsUserCenter.UI.Controllers.HomeController [(null)] - log4netinfo
+2018-04-16 11:40:02,505 [32] ERROR AbsUserCenter.UI.Controllers.HomeController [(null)] - log4neterror
+System.ArgumentNullException: Value cannot be null.
+2018-04-16 11:40:16,063 [11] INFO  AbsUserCenter.UI.Controllers.HomeController [(null)] - log4netinfo
+2018-04-16 11:40:16,130 [11] ERROR AbsUserCenter.UI.Controllers.HomeController [(null)] - log4neterror
+System.ArgumentNullException: Value cannot be null.
+2018-04-16 11:43:04,290 [11] INFO  AbsUserCenter.UI.Controllers.HomeController [(null)] - log4netinfo
+2018-04-16 11:43:04,351 [11] ERROR AbsUserCenter.UI.Controllers.HomeController [(null)] - log4neterror
+System.Exception: 自定义异常
+2018-04-16 11:43:18,548 [11] INFO  AbsUserCenter.UI.Controllers.HomeController [(null)] - log4netinfo
+2018-04-16 11:43:18,549 [11] ERROR AbsUserCenter.UI.Controllers.HomeController [(null)] - log4neterror
+System.Exception: 自定义异常

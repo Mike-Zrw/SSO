@@ -1,0 +1,13 @@
+E:\MyObject\AbsUserCenter\AbsUserCenter.UI
+--output-path=obj\Any CPU\Release\netcoreapp2.0\
+--application-name=AbsUserCenter.UI
+--content-root=E:\MyObject\AbsUserCenter\AbsUserCenter.UI
+--file=E:\MyObject\AbsUserCenter\AbsUserCenter.UI\Views\Account\Login.cshtml
+--file=E:\MyObject\AbsUserCenter\AbsUserCenter.UI\Views\Home\About.cshtml
+--file=E:\MyObject\AbsUserCenter\AbsUserCenter.UI\Views\Home\Contact.cshtml
+--file=E:\MyObject\AbsUserCenter\AbsUserCenter.UI\Views\Home\Index.cshtml
+--file=E:\MyObject\AbsUserCenter\AbsUserCenter.UI\Views\Shared\Error.cshtml
+--file=E:\MyObject\AbsUserCenter\AbsUserCenter.UI\Views\Shared\_Layout.cshtml
+--file=E:\MyObject\AbsUserCenter\AbsUserCenter.UI\Views\Shared\_ValidationScriptsPartial.cshtml
+--file=E:\MyObject\AbsUserCenter\AbsUserCenter.UI\Views\_ViewImports.cshtml
+--file=E:\MyObject\AbsUserCenter\AbsUserCenter.UI\Views\_ViewStart.cshtml

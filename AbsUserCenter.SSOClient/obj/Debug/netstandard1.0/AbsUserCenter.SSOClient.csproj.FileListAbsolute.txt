@@ -1,0 +1,4 @@
+E:\MyObject\AbsUserCenter\AbsUserCenter.SSOClient\obj\Debug\netstandard1.0\AbsUserCenter.SSOClient.csprojResolveAssemblyReference.cache
+E:\MyObject\AbsUserCenter\AbsUserCenter.SSOClient\obj\Debug\netstandard1.0\AbsUserCenter.SSOClient.csproj.CoreCompileInputs.cache
+E:\MyObject\AbsUserCenter\AbsUserCenter.SSOClient\obj\Debug\netstandard1.0\AbsUserCenter.SSOClient.AssemblyInfoInputs.cache
+E:\MyObject\AbsUserCenter\AbsUserCenter.SSOClient\obj\Debug\netstandard1.0\AbsUserCenter.SSOClient.AssemblyInfo.cs

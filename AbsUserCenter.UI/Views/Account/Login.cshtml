@@ -1,0 +1,57 @@
+﻿@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Abs商业智能管理平台</title>
+    <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+    <meta content="IE=EmulateIE7" http-equiv="X-UA-Compatible">
+    <meta content="no-cache" http-equiv="pragma">
+    <meta content="no-cache, must-revalidate" http-equiv="Cache-Control">
+    <meta content="0" http-equiv="expires">
+    <link href="~/css/login.css" rel="stylesheet" type="text/css">
+    <script type="text/javascript" src="~/js/Account/jquery.js"></script>
+    <script type="text/javascript" src="~/js/Account/Login.js"></script>
+    <script>
+        window.onload = function () {
+            document.body.style.height = document.documentElement.clientHeight + "px";
+        }
+    </script>
+
+</head>
+<body>
+
+    <form class="loginbox">
+        <div class="logo">
+            <img src="~/images/Logo.png" />
+        </div>
+        <div class="login">
+            <div class="title"><img src="~/images/LoginTitle.png?v=@ViewBag.v" /></div>
+            <div class="headline">用户名：</div>
+            <input type="text" id="loginname" name="loginname" autocomplete="on" />
+            <div class="headline">密码：</div>
+            <input type="password" id="loginpwd" name="loginpwd" autocomplete="on" />
+            <div class="headline">验证码：</div>
+            <div>
+                <div class="codeleft">
+                    <input type="text" onblur="" id="authcode" name="authcode" />
+                </div>
+                <div class="coderight">
+                    <img src="~/images/code.png" id="imgChkCode" title="点击刷新验证码" onclick="changeCode('imgChkCode');" alt="点击刷新验证码" />
+                </div>
+                <div class="clear"></div>
+            </div>
+            <a id="loginsubmit" href="javascript:void(0)">
+                <div class="btn">登录</div>
+            </a>
+        </div>
+        <div id="errContainer"></div>
+        <div class="clear"></div>
+    </form>
+    <div class="footer">
+        Copyright 2015 爱彼此家居用品股份有限公司 版权所有 ABS家居旗下数据产品
+    </div>
+
+</body>
+</html>

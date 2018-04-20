@@ -1,0 +1,17 @@
+E:\MyObject\AbsUserCenter\Test\bin\Debug\netcoreapp2.0\Test.deps.json
+E:\MyObject\AbsUserCenter\Test\bin\Debug\netcoreapp2.0\Test.runtimeconfig.json
+E:\MyObject\AbsUserCenter\Test\bin\Debug\netcoreapp2.0\Test.runtimeconfig.dev.json
+E:\MyObject\AbsUserCenter\Test\bin\Debug\netcoreapp2.0\Test.dll
+E:\MyObject\AbsUserCenter\Test\bin\Debug\netcoreapp2.0\Test.pdb
+E:\MyObject\AbsUserCenter\Test\bin\Debug\netcoreapp2.0\AbsUserCenter.Core.dll
+E:\MyObject\AbsUserCenter\Test\bin\Debug\netcoreapp2.0\AbsUserCenter.Service.dll
+E:\MyObject\AbsUserCenter\Test\bin\Debug\netcoreapp2.0\AbsUserCenter.Tool.dll
+E:\MyObject\AbsUserCenter\Test\bin\Debug\netcoreapp2.0\AbsUserCenter.Service.pdb
+E:\MyObject\AbsUserCenter\Test\bin\Debug\netcoreapp2.0\AbsUserCenter.Core.pdb
+E:\MyObject\AbsUserCenter\Test\bin\Debug\netcoreapp2.0\AbsUserCenter.Tool.pdb
+E:\MyObject\AbsUserCenter\Test\obj\Debug\netcoreapp2.0\Test.csprojResolveAssemblyReference.cache
+E:\MyObject\AbsUserCenter\Test\obj\Debug\netcoreapp2.0\Test.csproj.CoreCompileInputs.cache
+E:\MyObject\AbsUserCenter\Test\obj\Debug\netcoreapp2.0\Test.AssemblyInfoInputs.cache
+E:\MyObject\AbsUserCenter\Test\obj\Debug\netcoreapp2.0\Test.AssemblyInfo.cs
+E:\MyObject\AbsUserCenter\Test\obj\Debug\netcoreapp2.0\Test.dll
+E:\MyObject\AbsUserCenter\Test\obj\Debug\netcoreapp2.0\Test.pdb

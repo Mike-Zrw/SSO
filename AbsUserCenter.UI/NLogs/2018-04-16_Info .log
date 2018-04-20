@@ -1,0 +1,38 @@
+2018-04-16 15:37:28.4204 | Request starting HTTP/1.1 GET http://localhost:54805/   
+2018-04-16 15:37:28.4204 | Request starting HTTP/1.1 GET http://localhost:54805/  0 
+2018-04-16 15:37:28.5929 | Executing action method AbsUserCenter.UI.Controllers.HomeController.Index (AbsUserCenter.UI) with arguments ((null)) - ModelState is Valid 
+2018-04-16 15:37:28.5929 | Executing action method AbsUserCenter.UI.Controllers.HomeController.Index (AbsUserCenter.UI) with arguments ((null)) - ModelState is Valid 
+2018-04-16 15:37:28.6094 | nloginfo2 
+2018-04-16 15:37:28.6094 | nloginfo2 
+2018-04-16 15:37:31.1457 | Executing ViewResult, running view at path /Views/Home/Index.cshtml. 
+2018-04-16 15:37:31.1457 | Executing ViewResult, running view at path /Views/Home/Index.cshtml. 
+2018-04-16 15:37:31.6163 | Executed action AbsUserCenter.UI.Controllers.HomeController.Index (AbsUserCenter.UI) in 3027.7347ms 
+2018-04-16 15:37:31.6163 | Executed action AbsUserCenter.UI.Controllers.HomeController.Index (AbsUserCenter.UI) in 3026.8694ms 
+2018-04-16 15:37:31.6281 | Request finished in 3233.2749ms 200 text/html; charset=utf-8 
+2018-04-16 15:37:31.6281 | Request finished in 3238.7487ms 200 text/html; charset=utf-8 
+2018-04-16 17:20:25.1532 | Request starting HTTP/1.1 GET http://localhost:54805/   
+2018-04-16 17:20:25.4887 | Executing action method AbsUserCenter.UI.Controllers.HomeController.Index (AbsUserCenter.UI) with arguments ((null)) - ModelState is Valid 
+2018-04-16 17:20:25.5030 | nloginfo2 
+2018-04-16 17:20:28.0272 | Executing ViewResult, running view at path /Views/Home/Index.cshtml. 
+2018-04-16 17:20:28.3413 | Executed action AbsUserCenter.UI.Controllers.HomeController.Index (AbsUserCenter.UI) in 2871.5592ms 
+2018-04-16 17:20:28.3544 | Request finished in 3249.4787ms 200 text/html; charset=utf-8 
+2018-04-16 18:28:14.9333 | Request starting HTTP/1.1 GET http://localhost:54805/   
+2018-04-16 18:28:15.8237 | Executing action method AbsUserCenter.UI.Controllers.HomeController.Index (AbsUserCenter.UI) with arguments ((null)) - ModelState is Valid 
+2018-04-16 18:29:20.3582 | Request starting HTTP/1.1 GET http://localhost:54805/   
+2018-04-16 18:29:20.8069 | Executing action method AbsUserCenter.UI.Controllers.HomeController.Index (AbsUserCenter.UI) with arguments ((null)) - ModelState is Valid 
+2018-04-16 18:29:20.8213 | nloginfo2 
+2018-04-16 18:29:24.4846 | Executing ViewResult, running view at path /Views/Home/Index.cshtml. 
+2018-04-16 18:29:24.9949 | Executed action AbsUserCenter.UI.Controllers.HomeController.Index (AbsUserCenter.UI) in 4280.9582ms 
+2018-04-16 18:29:25.0267 | Request finished in 4711.3507ms 200 text/html; charset=utf-8 
+2018-04-16 18:30:34.7130 | Request starting HTTP/1.1 GET http://localhost:54805/   
+2018-04-16 18:30:34.9755 | Executing action method AbsUserCenter.UI.Controllers.HomeController.Index (AbsUserCenter.UI) with arguments ((null)) - ModelState is Valid 
+2018-04-16 18:30:34.9755 | nloginfo2 
+2018-04-16 18:30:37.3993 | Executing ViewResult, running view at path /Views/Home/Index.cshtml. 
+2018-04-16 18:30:37.9398 | Executed action AbsUserCenter.UI.Controllers.HomeController.Index (AbsUserCenter.UI) in 2973.3454ms 
+2018-04-16 18:30:37.9662 | Request finished in 3280.4036ms 200 text/html; charset=utf-8 
+2018-04-16 18:31:40.4491 | Request starting HTTP/1.1 GET http://localhost:54805/   
+2018-04-16 18:31:40.6862 | Executing action method AbsUserCenter.UI.Controllers.HomeController.Index (AbsUserCenter.UI) with arguments ((null)) - ModelState is Valid 
+2018-04-16 18:31:40.7032 | nloginfo2 
+2018-04-16 18:31:43.0697 | Executing ViewResult, running view at path /Views/Home/Index.cshtml. 
+2018-04-16 18:31:43.3952 | Executed action AbsUserCenter.UI.Controllers.HomeController.Index (AbsUserCenter.UI) in 2710.0507ms 
+2018-04-16 18:31:43.4086 | Request finished in 2987.0622ms 200 text/html; charset=utf-8 
