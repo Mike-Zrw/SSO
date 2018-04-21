@@ -1,5 +1,5 @@
-/packages
-/bin
-/obj
-bin
-obj
+/AbsUserCenter.Service/obj
+/AbsUserCenter.Repository/obj
+/AbsUserCenter.Core/obj
+/ClientUI/obj
+/AbsUserCenter.UI/obj

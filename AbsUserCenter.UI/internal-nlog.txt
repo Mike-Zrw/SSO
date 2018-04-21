@@ -15679,3 +15679,421 @@
 2018-04-19 13:55:13.9777 Debug Warn => log_file
 2018-04-19 13:55:13.9777 Debug Error => log_file
 2018-04-19 13:55:13.9777 Debug Fatal => log_file
+2018-04-21 13:04:45.6313 Info Message Template Auto Format enabled
+2018-04-21 13:04:45.6408 Debug Targets for Microsoft.AspNetCore.Hosting.Internal.ApplicationLifetime by level:
+2018-04-21 13:04:45.6408 Debug Trace =>
+2018-04-21 13:04:45.6408 Debug Debug =>
+2018-04-21 13:04:45.6408 Debug Info =>
+2018-04-21 13:04:45.6408 Debug Warn =>
+2018-04-21 13:04:45.6408 Debug Error =>
+2018-04-21 13:04:45.6408 Debug Fatal =>
+2018-04-21 13:04:45.6408 Debug Targets for Microsoft.AspNetCore.Server.Kestrel.Transport.Libuv by level:
+2018-04-21 13:04:45.6408 Debug Trace =>
+2018-04-21 13:04:45.6408 Debug Debug =>
+2018-04-21 13:04:45.6408 Debug Info =>
+2018-04-21 13:04:45.6408 Debug Warn =>
+2018-04-21 13:04:45.6408 Debug Error =>
+2018-04-21 13:04:45.6408 Debug Fatal =>
+2018-04-21 13:04:45.6408 Debug Targets for Microsoft.AspNetCore.Server.Kestrel by level:
+2018-04-21 13:04:45.6408 Debug Trace =>
+2018-04-21 13:04:45.6408 Debug Debug =>
+2018-04-21 13:04:45.6408 Debug Info =>
+2018-04-21 13:04:45.6408 Debug Warn =>
+2018-04-21 13:04:45.6408 Debug Error =>
+2018-04-21 13:04:45.6488 Debug Fatal =>
+2018-04-21 13:04:45.6488 Debug Targets for Microsoft.AspNetCore.DataProtection.TypeForwardingActivator by level:
+2018-04-21 13:04:45.6488 Debug Trace =>
+2018-04-21 13:04:45.6488 Debug Debug =>
+2018-04-21 13:04:45.6488 Debug Info =>
+2018-04-21 13:04:45.6488 Debug Warn =>
+2018-04-21 13:04:45.6488 Debug Error =>
+2018-04-21 13:04:45.6488 Debug Fatal =>
+2018-04-21 13:04:45.6488 Debug Targets for Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager by level:
+2018-04-21 13:04:45.6488 Debug Trace =>
+2018-04-21 13:04:45.6488 Debug Debug =>
+2018-04-21 13:04:45.6488 Debug Info =>
+2018-04-21 13:04:45.6488 Debug Warn =>
+2018-04-21 13:04:45.6488 Debug Error =>
+2018-04-21 13:04:45.6488 Debug Fatal =>
+2018-04-21 13:04:45.6488 Debug Targets for Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.CngGcmAuthenticatedEncryptorFactory by level:
+2018-04-21 13:04:45.6488 Debug Trace =>
+2018-04-21 13:04:45.6488 Debug Debug =>
+2018-04-21 13:04:45.6488 Debug Info =>
+2018-04-21 13:04:45.6488 Debug Warn =>
+2018-04-21 13:04:45.6488 Debug Error =>
+2018-04-21 13:04:45.6488 Debug Fatal =>
+2018-04-21 13:04:45.6488 Debug Targets for Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.CngCbcAuthenticatedEncryptorFactory by level:
+2018-04-21 13:04:45.6488 Debug Trace =>
+2018-04-21 13:04:45.6488 Debug Debug =>
+2018-04-21 13:04:45.6488 Debug Info =>
+2018-04-21 13:04:45.6488 Debug Warn =>
+2018-04-21 13:04:45.6488 Debug Error =>
+2018-04-21 13:04:45.6488 Debug Fatal =>
+2018-04-21 13:04:45.6488 Debug Targets for Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ManagedAuthenticatedEncryptorFactory by level:
+2018-04-21 13:04:45.6488 Debug Trace =>
+2018-04-21 13:04:45.6488 Debug Debug =>
+2018-04-21 13:04:45.6488 Debug Info =>
+2018-04-21 13:04:45.6488 Debug Warn =>
+2018-04-21 13:04:45.6488 Debug Error =>
+2018-04-21 13:04:45.6488 Debug Fatal =>
+2018-04-21 13:04:45.6488 Debug Targets for Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlEncryptor by level:
+2018-04-21 13:04:45.6488 Debug Trace =>
+2018-04-21 13:04:45.6638 Debug Debug =>
+2018-04-21 13:04:45.6638 Debug Info =>
+2018-04-21 13:04:45.6638 Debug Warn =>
+2018-04-21 13:04:45.6638 Debug Error =>
+2018-04-21 13:04:45.6638 Debug Fatal =>
+2018-04-21 13:04:45.6638 Debug Targets for Microsoft.AspNetCore.DataProtection.Repositories.FileSystemXmlRepository by level:
+2018-04-21 13:04:45.6638 Debug Trace =>
+2018-04-21 13:04:45.6638 Debug Debug =>
+2018-04-21 13:04:45.6638 Debug Info =>
+2018-04-21 13:04:45.6638 Debug Warn =>
+2018-04-21 13:04:45.6638 Debug Error =>
+2018-04-21 13:04:45.6638 Debug Fatal =>
+2018-04-21 13:04:45.6638 Debug Targets for Microsoft.AspNetCore.DataProtection.KeyManagement.DefaultKeyResolver by level:
+2018-04-21 13:04:45.6638 Debug Trace =>
+2018-04-21 13:04:45.6638 Debug Debug =>
+2018-04-21 13:04:45.6638 Debug Info =>
+2018-04-21 13:04:45.6638 Debug Warn =>
+2018-04-21 13:04:45.6638 Debug Error =>
+2018-04-21 13:04:45.6638 Debug Fatal =>
+2018-04-21 13:04:45.6638 Debug Targets for Microsoft.AspNetCore.DataProtection.KeyManagement.KeyRingProvider by level:
+2018-04-21 13:04:45.6638 Debug Trace =>
+2018-04-21 13:04:45.6638 Debug Debug =>
+2018-04-21 13:04:45.6638 Debug Info =>
+2018-04-21 13:04:45.6638 Debug Warn =>
+2018-04-21 13:04:45.6638 Debug Error =>
+2018-04-21 13:04:45.6638 Debug Fatal =>
+2018-04-21 13:04:45.6638 Debug Targets for Microsoft.AspNetCore.DataProtection.Internal.DataProtectionStartupFilter by level:
+2018-04-21 13:04:45.6638 Debug Trace =>
+2018-04-21 13:04:45.6638 Debug Debug =>
+2018-04-21 13:04:45.6638 Debug Info =>
+2018-04-21 13:04:45.6638 Debug Warn =>
+2018-04-21 13:04:45.6638 Debug Error =>
+2018-04-21 13:04:45.6638 Debug Fatal =>
+2018-04-21 13:04:45.6638 Debug Targets for Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor by level:
+2018-04-21 13:04:45.6638 Debug Trace =>
+2018-04-21 13:04:45.6638 Debug Debug =>
+2018-04-21 13:04:45.6638 Debug Info =>
+2018-04-21 13:04:45.6638 Debug Warn =>
+2018-04-21 13:04:45.6638 Debug Error =>
+2018-04-21 13:04:45.6638 Debug Fatal =>
+2018-04-21 13:04:45.7033 Debug Setting 'UppercaseLayoutRendererWrapper.uppercase' to 'true'
+2018-04-21 13:04:45.7240 Debug Setting 'FileTarget.name' to 'log_file'
+2018-04-21 13:04:45.7240 Debug Setting 'FileTarget.fileName' to '../../../NLogs/${shortdate}_${level:uppercase=false:padding=-5}.log'
+2018-04-21 13:04:45.7240 Debug Setting 'UppercaseLayoutRendererWrapper.uppercase' to 'false'
+2018-04-21 13:04:45.7279 Debug Setting 'PaddingLayoutRendererWrapper.padding' to '-5'
+2018-04-21 13:04:45.7279 Debug Setting 'FileTarget.layout' to '${longdate} | ${message} ${onexception:${exception:format=tostring} ${newline} ${stacktrace} ${newline}'
+2018-04-21 13:04:45.7279 Debug Setting 'OnExceptionLayoutRendererWrapper.Inner' to '${exception:format=tostring} ${newline} ${stacktrace} ${newline}'
+2018-04-21 13:04:45.7481 Debug Setting 'ExceptionLayoutRenderer.format' to 'tostring'
+2018-04-21 13:04:45.7481 Info Adding target File Target[log_file]
+2018-04-21 13:04:45.7481 Debug Registered target log_file: NLog.Targets.FileTarget
+2018-04-21 13:04:45.7660 Info Configured from an XML element in E:\MyProject\GitProject\SSO\AbsUserCenter.UI\nlog.config...
+2018-04-21 13:04:45.7743 Debug Unused target checking is started... Rule Count: 5, Target Count: 1
+2018-04-21 13:04:45.7743 Debug Unused target checking is completed. Total Rule Count: 5, Total Target Count: 1, Unused Target Count: 0
+2018-04-21 13:04:45.7743 Debug --- NLog configuration dump ---
+2018-04-21 13:04:45.7743 Debug Targets:
+2018-04-21 13:04:45.7743 Debug File Target[log_file]
+2018-04-21 13:04:45.7743 Debug Rules:
+2018-04-21 13:04:45.7743 Debug logNamePattern: (:All) levels: [ Info ] appendTo: [ log_file ]
+2018-04-21 13:04:45.7743 Debug logNamePattern: (:All) levels: [ Error ] appendTo: [ log_file ]
+2018-04-21 13:04:45.7743 Debug logNamePattern: (:All) levels: [ Debug ] appendTo: [ log_file ]
+2018-04-21 13:04:45.7743 Debug logNamePattern: (:All) levels: [ Fatal ] appendTo: [ log_file ]
+2018-04-21 13:04:45.7743 Debug logNamePattern: (:All) levels: [ Warn ] appendTo: [ log_file ]
+2018-04-21 13:04:45.7743 Debug --- End of NLog configuration dump ---
+2018-04-21 13:04:45.7932 Info Found 27 configuration items
+2018-04-21 13:04:45.8113 Debug Targets for Microsoft.AspNetCore.Hosting.Internal.ApplicationLifetime by level:
+2018-04-21 13:04:45.8113 Debug Trace =>
+2018-04-21 13:04:45.8113 Debug Debug => log_file
+2018-04-21 13:04:45.8113 Debug Info => log_file
+2018-04-21 13:04:45.8113 Debug Warn => log_file
+2018-04-21 13:04:45.8113 Debug Error => log_file
+2018-04-21 13:04:45.8113 Debug Fatal => log_file
+2018-04-21 13:04:45.8113 Debug Targets for Microsoft.AspNetCore.Server.Kestrel.Transport.Libuv by level:
+2018-04-21 13:04:45.8113 Debug Trace =>
+2018-04-21 13:04:45.8113 Debug Debug => log_file
+2018-04-21 13:04:45.8113 Debug Info => log_file
+2018-04-21 13:04:45.8113 Debug Warn => log_file
+2018-04-21 13:04:45.8113 Debug Error => log_file
+2018-04-21 13:04:45.8113 Debug Fatal => log_file
+2018-04-21 13:04:45.8113 Debug Targets for Microsoft.AspNetCore.Server.Kestrel by level:
+2018-04-21 13:04:45.8113 Debug Trace =>
+2018-04-21 13:04:45.8113 Debug Debug => log_file
+2018-04-21 13:04:45.8113 Debug Info => log_file
+2018-04-21 13:04:45.8113 Debug Warn => log_file
+2018-04-21 13:04:45.8198 Debug Error => log_file
+2018-04-21 13:04:45.8198 Debug Fatal => log_file
+2018-04-21 13:04:45.8198 Debug Targets for Microsoft.AspNetCore.DataProtection.TypeForwardingActivator by level:
+2018-04-21 13:04:45.8198 Debug Trace =>
+2018-04-21 13:04:45.8198 Debug Debug => log_file
+2018-04-21 13:04:45.8198 Debug Info => log_file
+2018-04-21 13:04:45.8198 Debug Warn => log_file
+2018-04-21 13:04:45.8198 Debug Error => log_file
+2018-04-21 13:04:45.8198 Debug Fatal => log_file
+2018-04-21 13:04:45.8198 Debug Targets for Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager by level:
+2018-04-21 13:04:45.8198 Debug Trace =>
+2018-04-21 13:04:45.8198 Debug Debug => log_file
+2018-04-21 13:04:45.8198 Debug Info => log_file
+2018-04-21 13:04:45.8198 Debug Warn => log_file
+2018-04-21 13:04:45.8198 Debug Error => log_file
+2018-04-21 13:04:45.8198 Debug Fatal => log_file
+2018-04-21 13:04:45.8198 Debug Targets for Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.CngGcmAuthenticatedEncryptorFactory by level:
+2018-04-21 13:04:45.8198 Debug Trace =>
+2018-04-21 13:04:45.8198 Debug Debug => log_file
+2018-04-21 13:04:45.8198 Debug Info => log_file
+2018-04-21 13:04:45.8198 Debug Warn => log_file
+2018-04-21 13:04:45.8198 Debug Error => log_file
+2018-04-21 13:04:45.8198 Debug Fatal => log_file
+2018-04-21 13:04:45.8198 Debug Targets for Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.CngCbcAuthenticatedEncryptorFactory by level:
+2018-04-21 13:04:45.8198 Debug Trace =>
+2018-04-21 13:04:45.8198 Debug Debug => log_file
+2018-04-21 13:04:45.8198 Debug Info => log_file
+2018-04-21 13:04:45.8198 Debug Warn => log_file
+2018-04-21 13:04:45.8198 Debug Error => log_file
+2018-04-21 13:04:45.8198 Debug Fatal => log_file
+2018-04-21 13:04:45.8198 Debug Targets for Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ManagedAuthenticatedEncryptorFactory by level:
+2018-04-21 13:04:45.8198 Debug Trace =>
+2018-04-21 13:04:45.8198 Debug Debug => log_file
+2018-04-21 13:04:45.8198 Debug Info => log_file
+2018-04-21 13:04:45.8198 Debug Warn => log_file
+2018-04-21 13:04:45.8198 Debug Error => log_file
+2018-04-21 13:04:45.8198 Debug Fatal => log_file
+2018-04-21 13:04:45.8358 Debug Targets for Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlEncryptor by level:
+2018-04-21 13:04:45.8358 Debug Trace =>
+2018-04-21 13:04:45.8358 Debug Debug => log_file
+2018-04-21 13:04:45.8358 Debug Info => log_file
+2018-04-21 13:04:45.8358 Debug Warn => log_file
+2018-04-21 13:04:45.8358 Debug Error => log_file
+2018-04-21 13:04:45.8358 Debug Fatal => log_file
+2018-04-21 13:04:45.8358 Debug Targets for Microsoft.AspNetCore.DataProtection.Repositories.FileSystemXmlRepository by level:
+2018-04-21 13:04:45.8358 Debug Trace =>
+2018-04-21 13:04:45.8358 Debug Debug => log_file
+2018-04-21 13:04:45.8358 Debug Info => log_file
+2018-04-21 13:04:45.8358 Debug Warn => log_file
+2018-04-21 13:04:45.8358 Debug Error => log_file
+2018-04-21 13:04:45.8358 Debug Fatal => log_file
+2018-04-21 13:04:45.8358 Debug Targets for Microsoft.AspNetCore.DataProtection.KeyManagement.DefaultKeyResolver by level:
+2018-04-21 13:04:45.8358 Debug Trace =>
+2018-04-21 13:04:45.8358 Debug Debug => log_file
+2018-04-21 13:04:45.8358 Debug Info => log_file
+2018-04-21 13:04:45.8358 Debug Warn => log_file
+2018-04-21 13:04:45.8358 Debug Error => log_file
+2018-04-21 13:04:45.8358 Debug Fatal => log_file
+2018-04-21 13:04:45.8358 Debug Targets for Microsoft.AspNetCore.DataProtection.KeyManagement.KeyRingProvider by level:
+2018-04-21 13:04:45.8358 Debug Trace =>
+2018-04-21 13:04:45.8358 Debug Debug => log_file
+2018-04-21 13:04:45.8358 Debug Info => log_file
+2018-04-21 13:04:45.8358 Debug Warn => log_file
+2018-04-21 13:04:45.8358 Debug Error => log_file
+2018-04-21 13:04:45.8358 Debug Fatal => log_file
+2018-04-21 13:04:45.8358 Debug Targets for Microsoft.AspNetCore.DataProtection.Internal.DataProtectionStartupFilter by level:
+2018-04-21 13:04:45.8358 Debug Trace =>
+2018-04-21 13:04:45.8358 Debug Debug => log_file
+2018-04-21 13:04:45.8358 Debug Info => log_file
+2018-04-21 13:04:45.8358 Debug Warn => log_file
+2018-04-21 13:04:45.8358 Debug Error => log_file
+2018-04-21 13:04:45.8358 Debug Fatal => log_file
+2018-04-21 13:04:45.8521 Debug Targets for Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor by level:
+2018-04-21 13:04:45.8521 Debug Trace =>
+2018-04-21 13:04:45.8521 Debug Debug => log_file
+2018-04-21 13:04:45.8521 Debug Info => log_file
+2018-04-21 13:04:45.8521 Debug Warn => log_file
+2018-04-21 13:04:45.8521 Debug Error => log_file
+2018-04-21 13:04:45.8521 Debug Fatal => log_file
+2018-04-21 13:04:45.8675 Debug Watching path 'E:\MyProject\GitProject\SSO\AbsUserCenter.UI' filter 'nlog.config' for changes.
+2018-04-21 13:04:45.8998 Debug Targets for Microsoft.AspNetCore.Mvc.Formatters.JsonPatchInputFormatter by level:
+2018-04-21 13:04:45.8998 Debug Trace =>
+2018-04-21 13:04:45.8998 Debug Debug => log_file
+2018-04-21 13:04:45.8998 Debug Info => log_file
+2018-04-21 13:04:45.8998 Debug Warn => log_file
+2018-04-21 13:04:45.8998 Debug Error => log_file
+2018-04-21 13:04:45.8998 Debug Fatal => log_file
+2018-04-21 13:04:45.8998 Debug Targets for Microsoft.AspNetCore.Mvc.Formatters.JsonInputFormatter by level:
+2018-04-21 13:04:45.8998 Debug Trace =>
+2018-04-21 13:04:45.8998 Debug Debug => log_file
+2018-04-21 13:04:45.8998 Debug Info => log_file
+2018-04-21 13:04:45.8998 Debug Warn => log_file
+2018-04-21 13:04:45.8998 Debug Error => log_file
+2018-04-21 13:04:45.8998 Debug Fatal => log_file
+2018-04-21 13:04:45.9241 Debug Targets for Microsoft.AspNetCore.Mvc.RazorPages.Internal.RazorProjectPageRouteModelProvider by level:
+2018-04-21 13:04:45.9241 Debug Trace =>
+2018-04-21 13:04:45.9241 Debug Debug => log_file
+2018-04-21 13:04:45.9241 Debug Info => log_file
+2018-04-21 13:04:45.9241 Debug Warn => log_file
+2018-04-21 13:04:45.9241 Debug Error => log_file
+2018-04-21 13:04:45.9241 Debug Fatal => log_file
+2018-04-21 13:04:45.9638 Debug Targets for Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker by level:
+2018-04-21 13:04:45.9638 Debug Trace =>
+2018-04-21 13:04:45.9638 Debug Debug => log_file
+2018-04-21 13:04:45.9638 Debug Info => log_file
+2018-04-21 13:04:45.9638 Debug Warn => log_file
+2018-04-21 13:04:45.9638 Debug Error => log_file
+2018-04-21 13:04:45.9638 Debug Fatal => log_file
+2018-04-21 13:04:45.9899 Debug Targets for Microsoft.AspNetCore.Mvc.Razor.Internal.RazorViewCompiler by level:
+2018-04-21 13:04:45.9899 Debug Trace =>
+2018-04-21 13:04:45.9899 Debug Debug => log_file
+2018-04-21 13:04:45.9924 Debug Info => log_file
+2018-04-21 13:04:45.9924 Debug Warn => log_file
+2018-04-21 13:04:45.9924 Debug Error => log_file
+2018-04-21 13:04:45.9924 Debug Fatal => log_file
+2018-04-21 13:04:45.9924 Debug Targets for Microsoft.AspNetCore.DataProtection.KeyManagement.KeyRingBasedDataProtector by level:
+2018-04-21 13:04:45.9924 Debug Trace =>
+2018-04-21 13:04:45.9924 Debug Debug => log_file
+2018-04-21 13:04:45.9924 Debug Info => log_file
+2018-04-21 13:04:45.9924 Debug Warn => log_file
+2018-04-21 13:04:45.9924 Debug Error => log_file
+2018-04-21 13:04:45.9924 Debug Fatal => log_file
+2018-04-21 13:04:46.0103 Debug Targets for Microsoft.AspNetCore.Mvc.ViewFeatures.CookieTempDataProvider by level:
+2018-04-21 13:04:46.0103 Debug Trace =>
+2018-04-21 13:04:46.0103 Debug Debug => log_file
+2018-04-21 13:04:46.0103 Debug Info => log_file
+2018-04-21 13:04:46.0103 Debug Warn => log_file
+2018-04-21 13:04:46.0103 Debug Error => log_file
+2018-04-21 13:04:46.0103 Debug Fatal => log_file
+2018-04-21 13:04:46.0103 Debug Targets for Microsoft.AspNetCore.Mvc.RazorPages.Internal.PageActionInvoker by level:
+2018-04-21 13:04:46.0103 Debug Trace =>
+2018-04-21 13:04:46.0103 Debug Debug => log_file
+2018-04-21 13:04:46.0103 Debug Info => log_file
+2018-04-21 13:04:46.0103 Debug Warn => log_file
+2018-04-21 13:04:46.0103 Debug Error => log_file
+2018-04-21 13:04:46.0229 Debug Fatal => log_file
+2018-04-21 13:04:46.0229 Debug Targets for Microsoft.AspNetCore.Mvc.Internal.ActionSelector by level:
+2018-04-21 13:04:46.0229 Debug Trace =>
+2018-04-21 13:04:46.0229 Debug Debug => log_file
+2018-04-21 13:04:46.0229 Debug Info => log_file
+2018-04-21 13:04:46.0229 Debug Warn => log_file
+2018-04-21 13:04:46.0229 Debug Error => log_file
+2018-04-21 13:04:46.0229 Debug Fatal => log_file
+2018-04-21 13:04:46.0229 Debug Targets for Microsoft.AspNetCore.Mvc.Internal.MvcRouteHandler by level:
+2018-04-21 13:04:46.0229 Debug Trace =>
+2018-04-21 13:04:46.0229 Debug Debug => log_file
+2018-04-21 13:04:46.0229 Debug Info => log_file
+2018-04-21 13:04:46.0229 Debug Warn => log_file
+2018-04-21 13:04:46.0229 Debug Error => log_file
+2018-04-21 13:04:46.0229 Debug Fatal => log_file
+2018-04-21 13:04:46.0437 Debug Targets for Microsoft.AspNetCore.Builder.RouterMiddleware by level:
+2018-04-21 13:04:46.0437 Debug Trace =>
+2018-04-21 13:04:46.0437 Debug Debug => log_file
+2018-04-21 13:04:46.0437 Debug Info => log_file
+2018-04-21 13:04:46.0437 Debug Warn => log_file
+2018-04-21 13:04:46.0437 Debug Error => log_file
+2018-04-21 13:04:46.0437 Debug Fatal => log_file
+2018-04-21 13:04:46.0437 Debug Targets for Microsoft.AspNetCore.Session.SessionMiddleware by level:
+2018-04-21 13:04:46.0550 Debug Trace =>
+2018-04-21 13:04:46.0550 Debug Debug => log_file
+2018-04-21 13:04:46.0550 Debug Info => log_file
+2018-04-21 13:04:46.0550 Debug Warn => log_file
+2018-04-21 13:04:46.0550 Debug Error => log_file
+2018-04-21 13:04:46.0550 Debug Fatal => log_file
+2018-04-21 13:04:46.0550 Debug Targets for Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware by level:
+2018-04-21 13:04:46.0550 Debug Trace =>
+2018-04-21 13:04:46.0550 Debug Debug => log_file
+2018-04-21 13:04:46.0550 Debug Info => log_file
+2018-04-21 13:04:46.0550 Debug Warn => log_file
+2018-04-21 13:04:46.0550 Debug Error => log_file
+2018-04-21 13:04:46.0550 Debug Fatal => log_file
+2018-04-21 13:04:46.0550 Debug Targets for Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware by level:
+2018-04-21 13:04:46.0550 Debug Trace =>
+2018-04-21 13:04:46.0550 Debug Debug => log_file
+2018-04-21 13:04:46.0550 Debug Info => log_file
+2018-04-21 13:04:46.0550 Debug Warn => log_file
+2018-04-21 13:04:46.0550 Debug Error => log_file
+2018-04-21 13:04:46.0550 Debug Fatal => log_file
+2018-04-21 13:04:46.0726 Debug Targets for Microsoft.AspNetCore.Hosting.Internal.WebHost by level:
+2018-04-21 13:04:46.0726 Debug Trace =>
+2018-04-21 13:04:46.0726 Debug Debug => log_file
+2018-04-21 13:04:46.0726 Debug Info => log_file
+2018-04-21 13:04:46.0726 Debug Warn => log_file
+2018-04-21 13:04:46.0726 Debug Error => log_file
+2018-04-21 13:04:46.0726 Debug Fatal => log_file
+2018-04-21 13:04:46.0726 Debug Targets for Microsoft.AspNetCore.Hosting.Internal.HostedServiceExecutor by level:
+2018-04-21 13:04:46.0726 Debug Trace =>
+2018-04-21 13:04:46.0726 Debug Debug => log_file
+2018-04-21 13:04:46.0726 Debug Info => log_file
+2018-04-21 13:04:46.0726 Debug Warn => log_file
+2018-04-21 13:04:46.0726 Debug Error => log_file
+2018-04-21 13:04:46.0726 Debug Fatal => log_file
+2018-04-21 13:04:51.7123 Debug Targets for Microsoft.AspNetCore.Session.DistributedSession by level:
+2018-04-21 13:04:51.7123 Debug Trace =>
+2018-04-21 13:04:51.7123 Debug Debug => log_file
+2018-04-21 13:04:51.7123 Debug Info => log_file
+2018-04-21 13:04:51.7123 Debug Warn => log_file
+2018-04-21 13:04:51.7123 Debug Error => log_file
+2018-04-21 13:04:51.7123 Debug Fatal => log_file
+2018-04-21 13:04:51.7352 Debug Targets for Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler by level:
+2018-04-21 13:04:51.7352 Debug Trace =>
+2018-04-21 13:04:51.7352 Debug Debug => log_file
+2018-04-21 13:04:51.7352 Debug Info => log_file
+2018-04-21 13:04:51.7352 Debug Warn => log_file
+2018-04-21 13:04:51.7352 Debug Error => log_file
+2018-04-21 13:04:51.7352 Debug Fatal => log_file
+2018-04-21 13:04:51.8326 Debug Targets for Microsoft.AspNetCore.Routing.Tree.TreeRouter by level:
+2018-04-21 13:04:51.8326 Debug Trace =>
+2018-04-21 13:04:51.8326 Debug Debug => log_file
+2018-04-21 13:04:51.8326 Debug Info => log_file
+2018-04-21 13:04:51.8326 Debug Warn => log_file
+2018-04-21 13:04:51.8326 Debug Error => log_file
+2018-04-21 13:04:51.8361 Debug Fatal => log_file
+2018-04-21 13:04:51.8361 Debug Targets for Microsoft.AspNetCore.Routing.RouteConstraintMatcher by level:
+2018-04-21 13:04:51.8361 Debug Trace =>
+2018-04-21 13:04:51.8361 Debug Debug => log_file
+2018-04-21 13:04:51.8361 Debug Info => log_file
+2018-04-21 13:04:51.8361 Debug Warn => log_file
+2018-04-21 13:04:51.8361 Debug Error => log_file
+2018-04-21 13:04:51.8361 Debug Fatal => log_file
+2018-04-21 13:04:51.8535 Debug Targets for Microsoft.AspNetCore.Routing.RouteBase by level:
+2018-04-21 13:04:51.8535 Debug Trace =>
+2018-04-21 13:04:51.8535 Debug Debug => log_file
+2018-04-21 13:04:51.8535 Debug Info => log_file
+2018-04-21 13:04:51.8535 Debug Warn => log_file
+2018-04-21 13:04:51.8535 Debug Error => log_file
+2018-04-21 13:04:51.8535 Debug Fatal => log_file
+2018-04-21 13:04:51.8834 Debug Targets for AbsUserCenter.UI.Controllers.HomeController by level:
+2018-04-21 13:04:51.8834 Debug Trace =>
+2018-04-21 13:04:51.8834 Debug Debug => log_file
+2018-04-21 13:04:51.8834 Debug Info => log_file
+2018-04-21 13:04:51.8834 Debug Warn => log_file
+2018-04-21 13:04:51.8834 Debug Error => log_file
+2018-04-21 13:04:51.8834 Debug Fatal => log_file
+2018-04-21 13:04:51.8834 Debug Targets for Microsoft.AspNetCore.Mvc.Razor.RazorViewEngine by level:
+2018-04-21 13:04:51.8988 Debug Trace =>
+2018-04-21 13:04:51.8988 Debug Debug => log_file
+2018-04-21 13:04:51.8988 Debug Info => log_file
+2018-04-21 13:04:51.8988 Debug Warn => log_file
+2018-04-21 13:04:51.8988 Debug Error => log_file
+2018-04-21 13:04:51.8988 Debug Fatal => log_file
+2018-04-21 13:04:51.8988 Debug Targets for Microsoft.AspNetCore.Mvc.ViewFeatures.Internal.ViewResultExecutor by level:
+2018-04-21 13:04:51.8988 Debug Trace =>
+2018-04-21 13:04:51.8988 Debug Debug => log_file
+2018-04-21 13:04:51.8988 Debug Info => log_file
+2018-04-21 13:04:51.8988 Debug Warn => log_file
+2018-04-21 13:04:51.8988 Debug Error => log_file
+2018-04-21 13:04:51.8988 Debug Fatal => log_file
+2018-04-21 13:04:54.5322 Debug Targets for Microsoft.AspNetCore.Mvc.ViewComponents.DefaultViewComponentInvoker by level:
+2018-04-21 13:04:54.5322 Debug Trace =>
+2018-04-21 13:04:54.5322 Debug Debug => log_file
+2018-04-21 13:04:54.5322 Debug Info => log_file
+2018-04-21 13:04:54.5322 Debug Warn => log_file
+2018-04-21 13:04:54.5322 Debug Error => log_file
+2018-04-21 13:04:54.5322 Debug Fatal => log_file
+2018-04-21 13:04:54.5520 Debug Targets for Microsoft.AspNetCore.Antiforgery.Internal.DefaultAntiforgery by level:
+2018-04-21 13:04:54.5520 Debug Trace =>
+2018-04-21 13:04:54.5520 Debug Debug => log_file
+2018-04-21 13:04:54.5520 Debug Info => log_file
+2018-04-21 13:04:54.5520 Debug Warn => log_file
+2018-04-21 13:04:54.5542 Debug Error => log_file
+2018-04-21 13:04:54.5542 Debug Fatal => log_file
+2018-04-21 13:04:54.9589 Debug Targets for Microsoft.AspNetCore.Mvc.Razor.TagHelpers.HeadTagHelper by level:
+2018-04-21 13:04:54.9589 Debug Trace =>
+2018-04-21 13:04:54.9589 Debug Debug => log_file
+2018-04-21 13:04:54.9589 Debug Info => log_file
+2018-04-21 13:04:54.9589 Debug Warn => log_file
+2018-04-21 13:04:54.9620 Debug Error => log_file
+2018-04-21 13:04:54.9620 Debug Fatal => log_file
+2018-04-21 13:04:54.9620 Debug Targets for Microsoft.AspNetCore.Mvc.Razor.TagHelpers.BodyTagHelper by level:
+2018-04-21 13:04:54.9620 Debug Trace =>
+2018-04-21 13:04:54.9620 Debug Debug => log_file
+2018-04-21 13:04:54.9620 Debug Info => log_file
+2018-04-21 13:04:54.9620 Debug Warn => log_file
+2018-04-21 13:04:54.9620 Debug Error => log_file
+2018-04-21 13:04:54.9768 Debug Fatal => log_file

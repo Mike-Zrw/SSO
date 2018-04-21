@@ -4788,7 +4788,10 @@
       },
       "AbsUserCenter.Core/1.0.0": {
         "type": "project",
-        "framework": ".NETStandard,Version=v2.0",
+        "framework": ".NETCoreApp,Version=v2.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.All": "2.0.3"
+        },
         "compile": {
           "bin/placeholder/AbsUserCenter.Core.dll": {}
         },
@@ -12685,8 +12688,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\sjjk\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {},
+    "C:\\Users\\18364\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
@@ -12695,33 +12697,31 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "E:\\MyObject\\AbsUserCenter\\Test\\Test.csproj",
+      "projectUniqueName": "E:\\MyProject\\GitProject\\SSO\\Test\\Test.csproj",
       "projectName": "Test",
-      "projectPath": "E:\\MyObject\\AbsUserCenter\\Test\\Test.csproj",
-      "packagesPath": "C:\\Users\\sjjk\\.nuget\\packages\\",
-      "outputPath": "E:\\MyObject\\AbsUserCenter\\Test\\obj\\",
+      "projectPath": "E:\\MyProject\\GitProject\\SSO\\Test\\Test.csproj",
+      "packagesPath": "C:\\Users\\18364\\.nuget\\packages\\",
+      "outputPath": "E:\\MyProject\\GitProject\\SSO\\Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\sjjk\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
+        "C:\\Users\\18364\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://www.nuget.org/api/v2/": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "E:\\MyObject\\AbsUserCenter\\AbsUserCenter.Service\\AbsUserCenter.Service.csproj": {
-              "projectPath": "E:\\MyObject\\AbsUserCenter\\AbsUserCenter.Service\\AbsUserCenter.Service.csproj"
+            "E:\\MyProject\\GitProject\\SSO\\AbsUserCenter.Service\\AbsUserCenter.Service.csproj": {
+              "projectPath": "E:\\MyProject\\GitProject\\SSO\\AbsUserCenter.Service\\AbsUserCenter.Service.csproj"
             }
           }
         }
@@ -12737,7 +12737,7 @@
         "dependencies": {
           "Microsoft.NETCore.App": {
             "target": "Package",
-            "version": "[2.0.0, )",
+            "version": "2.0",
             "autoReferenced": true
           }
         },
