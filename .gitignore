@@ -3,3 +3,14 @@
 /AbsUserCenter.Core/obj
 /ClientUI/obj
 /AbsUserCenter.UI/obj
+/.vs
+/packages
+/ClientUI/bin
+/AbsUserCenter.Core/bin
+/AbsUserCenter.Repository/bin
+/AbsUserCenter.Service/bin
+/AbsUserCenter.SSOClient/obj
+/AbsUserCenter.SSOClient/bin
+/AbsUserCenter.Tool/obj
+/AbsUserCenter.Tool/bin
+/AbsUserCenter.UI/bin
