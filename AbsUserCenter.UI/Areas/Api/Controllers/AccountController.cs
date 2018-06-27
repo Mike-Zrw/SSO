@@ -37,7 +37,7 @@ namespace AbsUserCenter.UI.Areas.Api.Controllers
         {
             string token = Request.Headers["token"];
             TokenClaims claim = TokenBuilder.DecodeToken(token);
-            if (claim == null || TokenBuilder.IsOverTime(claim))
+            if (claim == null|| TokenBuilder.IsOverTime(claim))
             {
                 return null;
             }

@@ -12688,26 +12688,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\18364\\.nuget\\packages\\": {},
+    "C:\\Users\\mike\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
-    "restoreSettings": {
-      "hideWarningsAndErrors": true
-    },
     "restore": {
-      "projectUniqueName": "E:\\MyProject\\GitProject\\SSO\\Test\\Test.csproj",
+      "projectUniqueName": "E:\\MyObject\\GitObject\\SSO\\Test\\Test.csproj",
       "projectName": "Test",
-      "projectPath": "E:\\MyProject\\GitProject\\SSO\\Test\\Test.csproj",
-      "packagesPath": "C:\\Users\\18364\\.nuget\\packages\\",
-      "outputPath": "E:\\MyProject\\GitProject\\SSO\\Test\\obj\\",
+      "projectPath": "E:\\MyObject\\GitObject\\SSO\\Test\\Test.csproj",
+      "packagesPath": "C:\\Users\\mike\\.nuget\\packages\\",
+      "outputPath": "E:\\MyObject\\GitObject\\SSO\\Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\18364\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\mike\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -12720,8 +12717,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "E:\\MyProject\\GitProject\\SSO\\AbsUserCenter.Service\\AbsUserCenter.Service.csproj": {
-              "projectPath": "E:\\MyProject\\GitProject\\SSO\\AbsUserCenter.Service\\AbsUserCenter.Service.csproj"
+            "E:\\MyObject\\GitObject\\SSO\\AbsUserCenter.Service\\AbsUserCenter.Service.csproj": {
+              "projectPath": "E:\\MyObject\\GitObject\\SSO\\AbsUserCenter.Service\\AbsUserCenter.Service.csproj"
             }
           }
         }
@@ -12737,7 +12734,7 @@
         "dependencies": {
           "Microsoft.NETCore.App": {
             "target": "Package",
-            "version": "2.0",
+            "version": "[2.0.0, )",
             "autoReferenced": true
           }
         },

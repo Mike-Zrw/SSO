@@ -6,6 +6,9 @@ using System.Text;
 
 namespace AbsUserCenter.SSOClient
 {
+    /// <summary>
+    /// sso验证token请求
+    /// </summary>
     public class BaseSsoApiReference
     {
         private static HttpClient _httpClient;
@@ -23,10 +26,10 @@ namespace AbsUserCenter.SSOClient
             httpClient.Timeout = TimeSpan.FromMinutes(30);
             httpClient.DefaultRequestHeaders.Accept.Add(new MediaTypeWithQualityHeaderValue("application/json"));
         }
-     
+
         private static object _syncRoot = new object();
 
-      
+
         public HttpClient HttpClient
         {
             get

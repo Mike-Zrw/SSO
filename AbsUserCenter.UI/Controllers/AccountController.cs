@@ -76,6 +76,7 @@ namespace AbsUserCenter.UI.Controllers
 
         /// <summary>
         /// 检查用户是否登陆
+        /// 若未登录跳转至登陆页面，否则跳回原页面
         /// </summary>
         /// <param name="returnurl"></param>
         /// <returns></returns>

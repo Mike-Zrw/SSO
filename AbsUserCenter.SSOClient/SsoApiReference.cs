@@ -18,7 +18,8 @@ namespace AbsUserCenter.SSOClient
                 if (response.IsSuccessStatusCode)
                 {
                     string result = response.Content.ReadAsStringAsync().Result;
-                    return new JavaScriptSerializer().Deserialize<SessionUser>(result);
+                    SessionUser su = new JavaScriptSerializer().Deserialize<SessionUser>(result);
+                    return su;
                 }
                 else
                 {

@@ -30,7 +30,7 @@ namespace ClientUI.Attributes
                 //{
                     AbsAuthorizeLoginResult result = AbsAuthorizeLogin.AuthorizeCore(httpContext.Request["token"], "http://localhost:54805/");
                     if (!result.Success)
-                        httpContext.Response.StatusCode = result.StatusCode;
+                        httpContext.Response.StatusCode = 401;
                     else
                     {
                         session["user"] = result.User;
