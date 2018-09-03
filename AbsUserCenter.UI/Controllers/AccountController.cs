@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Security.Claims;
 using System.Threading.Tasks;
+using System.Web;
 using AbsUserCenter.Core.Dto;
 using AbsUserCenter.Core.IService;
 using AbsUserCenter.Core.Model.Dto;
@@ -40,6 +41,9 @@ namespace AbsUserCenter.UI.Controllers
         [HttpPost]
         public JsonResult Login(string userName, string passWord, string txtCode, string backUrl, int sysId)
         {
+            string code = HttpContext.Session.GetString("CheckCode").ToLower();
+            if (txtCode.ToLower() != code)
+                return new JsonResult(new { success = false, msg = "验证码错误" });
             ApiResponse<SessionUser> loginResult = _accSer.Login(userName, passWord, sysId, GetClientIpAddress());
             if (!loginResult.Success)
             {
@@ -55,6 +59,7 @@ namespace AbsUserCenter.UI.Controllers
             );
             HttpContext.SignInAsync(CookieAuthenticationDefaults.AuthenticationScheme, user);
             string tokenStr = TokenBuilder.MakeToken(userName, sysId, loginResult.Data.UserId);
+            backUrl = HttpUtility.UrlDecode(backUrl);
             if (backUrl.Contains("?"))
             {
                 backUrl = backUrl + "&token=" + tokenStr;
@@ -87,6 +92,8 @@ namespace AbsUserCenter.UI.Controllers
                 string loginname = HttpContext.User.Claims.First().Value;
                 int userid = Convert.ToInt32(HttpContext.User.Claims.ToList()[1].Value);
                 string tokenStr = TokenBuilder.MakeToken(loginname, sysId, userid);
+                backUrl = HttpUtility.UrlDecode(backUrl);
+                backUrl = UrlRemoveParam(backUrl, "token");
                 if (backUrl.Contains("?"))
                 {
                     backUrl = backUrl + "&token=" + tokenStr;
@@ -97,14 +104,41 @@ namespace AbsUserCenter.UI.Controllers
                 }
                 return new RedirectResult(backUrl);
             }
-            return new RedirectResult(string.Format("/Account/Login?backUrl={0}&sysId={1}", backUrl, sysId));
+            return new RedirectResult(string.Format("/Account/Login?backUrl={0}&sysId={1}", HttpUtility.UrlEncode(backUrl), sysId));
         }
-
+        #region URL中去除指定参数 
+        /// <summary> 
+        /// 中去除指定参数 
+        /// </summary> 
+        /// <param name="url">地址</param> 
+        /// <param name="param">参数</param> 
+        /// <returns></returns> 
+        public static string UrlRemoveParam(string url, string param)
+        {
+            string url1 = url;
+            if (url.IndexOf(param) > 0)
+            {
+                if (url.IndexOf("&", url.IndexOf(param) + param.Length) > 0)
+                {
+                    url1 = url.Substring(0, url.IndexOf(param) - 1) + url.Substring(url.IndexOf("&", url.IndexOf(param) + param.Length) + 1);
+                }
+                else
+                {
+                    url1 = url.Substring(0, url.IndexOf(param) - 1);
+                }
+                return url1;
+            }
+            else
+            {
+                return url1;
+            }
+        }
+        #endregion
         public async Task<IActionResult> Logout(string backUrl, int sysId)
         {
             await HttpContext.SignOutAsync(CookieAuthenticationDefaults.AuthenticationScheme);
             string loginname = HttpContext.User.Claims.First().Value;
-            return new RedirectResult(string.Format("/Account/Login?backUrl={0}&sysId={1}", backUrl, sysId));
+            return new RedirectResult(string.Format("/Account/Login?backUrl={0}&sysId={1}", HttpUtility.UrlEncode(backUrl), sysId));
 
         }
 

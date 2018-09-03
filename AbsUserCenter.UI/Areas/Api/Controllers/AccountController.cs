@@ -36,16 +36,24 @@ namespace AbsUserCenter.UI.Areas.Api.Controllers
         public SessionUser GetUserDataByToken()
         {
             string token = Request.Headers["token"];
-            TokenClaims claim = TokenBuilder.DecodeToken(token);
-            if (claim == null|| TokenBuilder.IsOverTime(claim))
+            try
+            {
+                TokenClaims claim = TokenBuilder.DecodeToken(token);
+                if (claim == null || TokenBuilder.IsOverTime(claim))
+                {
+                    return null;
+                }
+                else
+                {
+                    SessionUser data = _accSer.GetUserData(claim.TokenPayload.UsrId, claim.TokenPayload.SysId);
+                    return data;
+                }
+            }
+            catch (Exception ex)
             {
                 return null;
             }
-            else
-            {
-                SessionUser data = _accSer.GetUserData(claim.TokenPayload.UsrId, claim.TokenPayload.SysId);
-                return data;
-            }
+         
         }
 
         /// <summary>
